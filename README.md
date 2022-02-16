@@ -1,4 +1,4 @@
-# fsrst-project
+# fsrst-project(Machine Learning)
 problem: this is a regression problem for predict saleprice of an house based on differen features given by the dataset
         
         data: data set from kaggle and this is  a kaggle problem
